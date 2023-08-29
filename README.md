@@ -1,4 +1,4 @@
-# SVG Shape Generator
+# SVG Logo Maker
   
 ## Description 
 The purpose of this program is to dynamically generate simple SVG logos for freelance web developers. Given a 3-character text, text color, a shape(square, triangle, circle), and shape color, the application will create a new SVG logo within a 300px X 200px SVG image. 
