@@ -8,8 +8,6 @@ The purpose of this program is to dynamically generate simple SVG logos for free
 
 [Usage](#usage)
 
-[License](#license)
-
 [Contributing](#contributing)
 
 [Tests](#tests)
