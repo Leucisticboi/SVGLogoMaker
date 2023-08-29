@@ -1,0 +1,6 @@
+
+    <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="150" cy="100" r="100" fill="yellow" />
+        <text x="150" y="100" fill="blue" text-anchor="middle" alignment-baseline="middle" font-size="50">Rob</text>
+    </svg>
+    
