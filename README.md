@@ -12,6 +12,8 @@ The purpose of this program is to dynamically generate simple SVG logos for free
 
 [Tests](#tests)
 
+[Walkthrough](#walkthrough)
+
 [Questions](#questions)
 
 ## User Story
@@ -62,6 +64,9 @@ I relied on previous practice assignments from the UofU Full-Stack programming b
 
 ## Tests
 Use the command 'npm test' in your CLI to see test results for each shape included in the application's code.
+
+## Walkthrough
+chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/622f08d7-b39f-4c32-y224-1c1d36078bd0
 
 ## Questions
 If you have any questions regarding this project, you can contact me via my GitHub profile or email me directly at the address below.
